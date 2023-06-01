@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NK blogs"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/nickkalen
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nickkalenichenko/
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+
+
+
