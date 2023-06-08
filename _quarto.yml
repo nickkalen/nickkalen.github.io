@@ -16,5 +16,6 @@ format:
     theme: zephyr
     css: styles.css
 
-
+execute:
+  freeze: auto
 
