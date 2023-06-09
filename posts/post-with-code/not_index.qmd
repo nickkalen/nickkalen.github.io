@@ -1,8 +1,0 @@
----
-title: "Post With Code"
-date: "2023-06-01"
-categories: [Docker, API]
-image: "image.jpg"
----
-
-This is a post with executable code R studio was here.

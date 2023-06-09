@@ -1,19 +1,20 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: envelope-fill
+      href: mailto:nick.kalenichenko@gmail.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/nickkalenichenko
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/nickkalen
 
 ---
 
-About this blog
+Welcome to my data science blog! My name is Nick Kalenichenko, and I recently graduated from the University of Virginia with my Master's in Data Science. This September, I am excited to embark on my professional journey as a forensic data analyst in Charlotte, NC. 
+
+To me, data science is the intersection of continuous learning, creativity, and problem solving. In my experience, articulating the process of a data science project reinforces the knowledge learned through the project, enabling a deeper understanding of the material. This is why I have made this website, so I hope you find content you enjoy. Feel free to reach out to me using any of the links up above.

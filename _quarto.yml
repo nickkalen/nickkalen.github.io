@@ -5,8 +5,13 @@ project:
 website:
   title: "NK blogs"
   navbar:
-    right:
+    left:
+      - text: "Blog Posts"
+        file: index.qmd
       - about.qmd
+    right:
+      - icon: envelope-fill
+        href: mailto:nick.kalenichenko@gmail.com
       - icon: github
         href: https://github.com/nickkalen
       - icon: linkedin
